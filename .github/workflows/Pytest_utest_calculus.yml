@@ -1,4 +1,4 @@
-name: Calculus_pytest
+name: utest_calculus_pytest
 
 on:
   push: 

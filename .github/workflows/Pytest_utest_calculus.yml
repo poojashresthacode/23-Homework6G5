@@ -1,4 +1,4 @@
-name: Calculus_Pytest
+name: Calculus_pytest
 
 on:
   push: 
